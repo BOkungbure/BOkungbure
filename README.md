@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BOkungbure
 - 👀 I’m interested in Data Analytics & Machine Learning
-- 🌱 I’m currently learning Visualisation with Python
 - 💞️ I’m looking to collaborate on visualisationprojects
 - 📫 How to reach me b.okungbure@gmail.com
 
