@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @BOkungbure
-- 👀 I’m interested in Data Analytics & Machine Learning
-- 💞️ I’m looking to collaborate on visualisationprojects
+- 👋 Hi, my name's 'Yomi
+- 👀 I’m a Data Analyst
 - 📫 How to reach me b.okungbure@gmail.com
 
 <!---
